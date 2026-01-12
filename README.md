@@ -297,7 +297,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@taskify-agent.com
+- 📧 Email: 
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/taskify-agent/discussions)
 - 🐛 Bug Reports: [GitHub Issues](https://github.com/yourusername/taskify-agent/issues)
 - 📖 Documentation: [Wiki](https://github.com/yourusername/taskify-agent/wiki)
