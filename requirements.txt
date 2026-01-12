@@ -1,0 +1,18 @@
+# Taskify Agent - Python Dependencies
+# Pin versions for reproducibility and security
+
+# Google ADK Framework
+google-adk==0.1.0
+toolbox-core==0.1.0
+
+# PDF Processing
+pypdf==4.0.1
+
+# Configuration Management
+python-dotenv==1.0.1
+
+# Data Validation (optional but recommended)
+pydantic==2.5.3
+
+# Security & Development Tools
+safety==3.0.1  # Dependency vulnerability scanning
